@@ -1,3 +1,5 @@
 site_name: SGD
+- docs/
+- mkdocs.yml
 pages:
 - Home: README.md
