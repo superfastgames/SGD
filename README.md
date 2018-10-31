@@ -1,3 +1,0 @@
-# SGD README
-
-README
