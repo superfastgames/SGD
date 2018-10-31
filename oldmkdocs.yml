@@ -1,0 +1,9 @@
+site_name: My Docs
+
+nav:
+    - 'Introduction': 'index.md'
+    - 'User Guide': 'guide.md'
+    - 'About': 'about.md'
+
+theme:
+  name: readthedocs
